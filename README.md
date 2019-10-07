@@ -1,5 +1,8 @@
 # 0-inicis
 Crea un repositori 
+## activitats
+* [1_llocweb](https://albatorcas.github.io/1_llocweb/)
+
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
 * [Llenguatge etiquetes github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
