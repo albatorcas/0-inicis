@@ -2,7 +2,7 @@
 Crea un repositori 
 
 ## activitats
-* [1_llocweb](https://albatorcas.github.io/1_llocweb/.com)
+* [1_llocweb](https://albatorcas.github.io/1_llocweb.com/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
