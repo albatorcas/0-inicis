@@ -2,7 +2,7 @@
 Crea un repositori 
 
 ## activitats
-* [1_llocweb](file:///Users/albatorrescastello/Desktop/recursos%20interactivos%20aplicados/clase/Index.html)
+* [1_llocweb]()
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
