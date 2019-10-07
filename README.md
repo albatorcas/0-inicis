@@ -1,5 +1,6 @@
 # 0-inicis
 Crea un repositori 
+
 ## activitats
 * [1_llocweb](https://albatorcas.github.io/1_llocweb/)
 
