@@ -4,6 +4,7 @@ Crea un repositori
 ## activitats
 * [1_llocweb] (https://albatorcas.github.io/1_llocweb/)
 * [2_cmyk] (https://albatorcas.github.io/2_cmyk/)
+* [3_broom] (https://albatorcas.github.io/3_broom/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
