@@ -6,6 +6,7 @@ Crea un repositori
 * [2_cmyk] (https://albatorcas.github.io/2_cmyk/)
 * [3_broom] (https://albatorcas.github.io/3_broom/)
 * [4_maquetacion] (https://albatorcas.github.io/4_maquetacion/)
+* [fletxa] (https://albatorcas.github.io/fletxa/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
