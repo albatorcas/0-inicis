@@ -7,7 +7,7 @@ Crea un repositori
 * [3_broom] (https://albatorcas.github.io/3_broom/)
 * [4_maquetacion] (https://albatorcas.github.io/4_maquetacion/)
 * [fletxa] (https://albatorcas.github.io/fletxa/)
-* [7_landingpage] (https://albatorcas.github.io/7_landingpage/)
+* [6_landingpage] (https://albatorcas.github.io/7_landingpage/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
