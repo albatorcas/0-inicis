@@ -8,6 +8,7 @@ Crea un repositori
 * [4_maquetacion] (https://albatorcas.github.io/4_maquetacion/)
 * [fletxa] (https://albatorcas.github.io/fletxa/)
 * [6_landingpage] (https://albatorcas.github.io/7_landingpage/)
+* [7_tarjetes] (https://albatorcas.github.io/6_tarjetes/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
