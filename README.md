@@ -10,6 +10,7 @@ Crea un repositori
 * [6_landingpage] (https://albatorcas.github.io/7_landingpage/)
 * [7_tarjetes] (https://albatorcas.github.io/6_tarjetes/)
 * [8_grid-moma] (https://albatorcas.github.io/8_grid-moma/)
+* [9_minimalissimo_shop] (https://albatorcas.github.io/9_minimalissimo_shop/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
