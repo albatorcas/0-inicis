@@ -12,6 +12,7 @@ Crea un repositori
 * [8_grid-moma] (https://albatorcas.github.io/8_grid-moma/)
 * [9_minimalissimo_shop] (https://albatorcas.github.io/9_minimalissimo_shop/)
 * [examen] (https://albatorcas.github.io/examen/)
+* [14_document_js] (https://albatorcas.github.io/14_document_js/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
