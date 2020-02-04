@@ -13,6 +13,7 @@ Crea un repositori
 * [9_minimalissimo_shop] (https://albatorcas.github.io/9_minimalissimo_shop/)
 * [examen] (https://albatorcas.github.io/examen/)
 * [14_document_js] (https://albatorcas.github.io/14_document_js/)
+* [15_menus] (https://albatorcas.github.io/15_menus/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
