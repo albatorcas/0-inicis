@@ -12,7 +12,8 @@ Crea un repositori
 * [8_grid-moma] (https://albatorcas.github.io/8_grid-moma/)
 * [9_minimalissimo_shop] (https://albatorcas.github.io/9_minimalissimo_shop/)
 * [examen] (https://albatorcas.github.io/examen/)
-* [14_document_js] (https://albatorcas.github.io/14_document_js/)
+* [14_document_js] (https://albatorcas.github.io/14_document_js/)(grupo)
+* [14_document_js] ()(personal)
 * [15_menus] (https://albatorcas.github.io/15_menus/)
 
 ## Pàgines classe
