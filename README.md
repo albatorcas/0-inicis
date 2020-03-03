@@ -15,6 +15,7 @@ Crea un repositori
 * [14_document_js] (https://albatorcas.github.io/14_document_js/)
 * [14_document_js-2] (https://albatorcas.github.io/14_document_js-2/)
 * [15_menus] (https://albatorcas.github.io/15_menus/)
+* [prova_2GP] (https://albatorcas.github.io/prova_2GP/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
